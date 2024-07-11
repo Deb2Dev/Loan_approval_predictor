@@ -80,10 +80,10 @@ It can be used by various financial institutions to streamline and reduce their 
 
 ## 6. Model Details
 
-***Algorithm:** Decision Tree Classifier
-***Criterion:** max_ntropy 
-***Depth:** 7
-***Maximum Features:** Log2
+* **Algorithm:** Decision Tree Classifier
+* **Criterion:** max_ntropy 
+* **Depth:** 7
+* **Maximum Features:** Log2
 
 ## 7. Metrices
 
