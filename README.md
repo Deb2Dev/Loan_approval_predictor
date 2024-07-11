@@ -17,16 +17,16 @@
 **Home Screen:-**
 
 
-![Home Screen](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(445).png)
+![Home Screen](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/Screenshot%20(448).png)
 
 
 **Predictions:-**
 
 
-![Home Screen](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(446).png)
+![Home Screen](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/Screenshot%20(449).png)
 
 
-![Home Screen](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(447).png)
+![Home Screen](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/Screenshot%20(450).png)
 
 
 ## 2. Overview
@@ -46,22 +46,22 @@ It can be used by various financial institutions to streamline and reduce their 
 **IDEs Used:-**
 | Vs Code | Jupyter Notebook |
 | --- | --- |
-| ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+| ![Vs Code logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/vscode_logo.jpg) | ![Jupyter Notebook logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/jupyter_logo.png) |
 
 **Frontend:-**
 | HTML | Bootstrap |
 | --- | --- |
-| ![HTML logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/html5_logo.jpg) | ![Bootstrap logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/bootstrap5_logo.jpg) |
+| ![HTML logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/html5_logo.jpg) | ![Bootstrap logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/bootstrap5_logo.jpg) |
 
 **Backend:-**
 | Django |
 | --- |
-| ![Django logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/django_logo.png) |
+| ![Django logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/django_logo.png) |
 
 **Data Preprocessing:-**
 | Pandas | Numpy |
 | --- | --- |
-| ![Pandas logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/pandas_logo.png) | ![Numpy logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/numpy_logo.png) |
+| ![Pandas logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/pandas_logo.png) | ![Numpy logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/numpy_logo.png) |
 
 **Data Visualisation:-**
 | Matplotlib | Seaborn |
@@ -71,12 +71,12 @@ It can be used by various financial institutions to streamline and reduce their 
 **ML Model:-**
 | SK Learn | XGBoost |
 | --- | --- |
-| ![SK Learn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/sklearn_logo.png) | ![SK Learn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/sklearn_logo.png) |
+| ![SK Learn logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/sklearn_logo.png) | ![XGBoost logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/xgb_logo.png) |
 
 **Module Referencing:-**
 | Joblib |
 | --- |
-| ![Joblib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/joblib_logo.png) |
+| ![Joblib logo](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/joblib_logo.png) |
 
 ## 6. Model Details
 
@@ -87,7 +87,7 @@ It can be used by various financial institutions to streamline and reduce their 
 
 ## 7. Metrices
 
-![Picture of metrices taken from jupyrter notebook](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(453).png)
+![Picture of metrices taken from jupyrter notebook](https://github.com/Deb2Dev/Loan_approval_predictor/blob/main/Logos/Screenshot%20(456).png)
 
 ## 8. Team
 
